@@ -1,7 +1,7 @@
 # 🌍 Eco-Climate Intelligence
 ### A Multi-Sectoral Climate Decision Support System
 
-> **Department of AI & Data Science · CBIT, Bengaluru**  
+> **Department of AI & Data Science · CMRIT, Bengaluru**  
 > Authors: K Siddharth · Shivani Sundareswaran · Rabiya Khanum  
 > Guide: Mr. Abdul Jabbar K
 
